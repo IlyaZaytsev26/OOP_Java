@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmlDataAdapter class="net.sf.jasperreports.data.xml.XmlDataAdapterImpl">
+  <name>New Data Adapter</name>
+  <dataFile type="repositoryDataLocation">
+    <location>C:\Users\aaa\Documents\XML.xml</location>
+  </dataFile>
+  <selectExpression/>
+  <useConnection>true</useConnection>
+  <locale>ru_RU</locale>
+  <timeZone>Europe/Moscow</timeZone>
+  <namespaceAware>false</namespaceAware>
+</xmlDataAdapter>

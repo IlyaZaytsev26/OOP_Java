@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+	<fontFamily name="DEJAVU">
+		<normal>
+			<ttf><![CDATA[fonts/DEJAVU/DejaVuSans.ttf]]></ttf>
+			<pdf><![CDATA[fonts/DEJAVU/DejaVuSans.ttf]]></pdf>
+		</normal>
+		<bold><![CDATA[fonts/DEJAVU/DejaVuSans-Bold.ttf]]></bold>
+		<italic><![CDATA[fonts/DEJAVU/DejaVuSans-Oblique.ttf]]></italic>
+		<boldItalic><![CDATA[fonts/DEJAVU/DejaVuSans-BoldOblique.ttf]]></boldItalic>
+		<pdfEncoding><![CDATA[Cp1251]]></pdfEncoding>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts/>
+	</fontFamily>
+</fontFamilies>
